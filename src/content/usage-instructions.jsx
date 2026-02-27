@@ -5,7 +5,7 @@ export const usageInstructions = (
     <p className="mb-4 text-gray-600 dark:text-gray-300">
       The editor validates your Landofile configuration against the{" "}
       <a
-        href="https://github.com/4lando/lando-spec"
+        href="https://github.com/lando-community/lando-spec"
         target="_blank"
         rel="noopener noreferrer"
         className="text-[#df4090] hover:underline"
