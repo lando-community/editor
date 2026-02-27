@@ -65,7 +65,7 @@ export async function loadSchema() {
     }
 
     if (!schema) {
-      const schemaUrl = "https://4lando.github.io/lando-spec/landofile-spec.json";
+      const schemaUrl = "https://lando-community.github.io/lando-spec/landofile-spec.json";
       debug.log("Fetching schema from:", schemaUrl);
 
       const response = await fetch(schemaUrl);

@@ -5,7 +5,7 @@ A web-based YAML editor for Lando configuration files with real-time validation 
 ## Features
 
 - **🎨 YAML Syntax Highlighting**: Custom syntax highlighting optimized for Landofiles
-- **✅ Real-time Validation**: Validates against the community-driven [Lando schema specification](https://github.com/4lando/lando-spec)
+- **✅ Real-time Validation**: Validates against the community-driven [Lando schema specification](https://github.com/lando-community/lando-spec)
 - **🔄 Auto-formatting**: Automatically formats:
   - On file load
   - When pasting content
@@ -29,7 +29,7 @@ A web-based YAML editor for Lando configuration files with real-time validation 
   - Save with auto-naming
   - Preserves comments and structure
 
-All schema-powered features (validation, suggestions, hover tooltips, etc) are driven by the community-driven [Lando schema specification](https://github.com/4lando/lando-spec), ensuring accuracy and consistency with Lando's configuration format.
+All schema-powered features (validation, suggestions, hover tooltips, etc) are driven by the community-driven [Lando schema specification](https://github.com/lando-community/lando-spec), ensuring accuracy and consistency with Lando's configuration format.
 
 ## Usage
 
@@ -85,7 +85,7 @@ The editor will be available at `https://editor.lndo.site/public`.
 ### Deployment
 
 The editor is automatically deployed to GitHub Pages when code is pushed to the main branch.
-You can access the live version at: https://4lando.github.io/editor/
+You can access the live version at: https://lando-community.github.io/editor/
 
 ## Tech Stack
 
