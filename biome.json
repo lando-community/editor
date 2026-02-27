@@ -26,7 +26,6 @@
         "noUnusedImports": "off",
         "noUnusedVariables": "off",
         "noUnusedFunctionParameters": "off",
-        "useParseIntRadix": "off",
         "useExhaustiveDependencies": "off"
       },
       "suspicious": {
